@@ -1,4 +1,4 @@
-import { ChatBubble } from "@/components/ChatFrame/ChatBubble";
+import { ChatBubble } from "@/components/chat/ChatBubble";
 
 export const ChatFrame = () => {
   return <div>
